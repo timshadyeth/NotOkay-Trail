@@ -1,22 +1,12 @@
-# Oregon Trail
-
-#### Oregon Trail JavaScript Game, Current Version: 03/09/2017
+# NotOkay Trail
 
 #### By Gloria Friesen, Megan Warnock, Ryan McAlpin, Chris Carr, Riley Watts
+#### Edited by LolTrems, TimShady, TheVoiceOfCash
 
 ## Description
 A web-based re-imagining of the original Oregon Trail game. Users will travel the trail, encountering forts and rivers along the way. Hunt and rest to replenish supplies. Party members may perish on the journey, but as long as at least one survives to Oregon, the user will win.
 
-To play the game click here: https://warnock.github.io/oregon-trail-game/
-
-![TOT Screenshot](/img/screenshot.png)
-
-## Setup/Installation Instructions
-* Clone portfolio respository from: http://github.com/warnock/oregon-trail-game
-* Navigate to oregon-trail directory
-* Open index.html in a browser
-* Enter party member names and click Start Game
-* Enjoy!
+To play the game click here: [NotOkay Trail Github.IO](https://timshadyeth.github.io/)
 
 ## Specifications
 
@@ -53,7 +43,7 @@ No known issues.
 ## Support and contact details
 Questions? Concerns? Suggestions?
 
-Reach out to us via github: http://github.com/warnock
+Reach out to us via discord: timshadyeth
 
 ## Technologies Used
 * _HTML_
